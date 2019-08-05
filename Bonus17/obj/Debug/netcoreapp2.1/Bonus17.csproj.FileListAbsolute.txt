@@ -1,0 +1,11 @@
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.csprojAssemblyReference.cache
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.csproj.CoreCompileInputs.cache
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.AssemblyInfoInputs.cache
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.AssemblyInfo.cs
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\bin\Debug\netcoreapp2.1\Bonus17.deps.json
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\bin\Debug\netcoreapp2.1\Bonus17.runtimeconfig.json
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\bin\Debug\netcoreapp2.1\Bonus17.runtimeconfig.dev.json
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\bin\Debug\netcoreapp2.1\Bonus17.dll
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\bin\Debug\netcoreapp2.1\Bonus17.pdb
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.dll
+C:\Users\Flaka\source\repos\Bonus17\Bonus17\obj\Debug\netcoreapp2.1\Bonus17.pdb
